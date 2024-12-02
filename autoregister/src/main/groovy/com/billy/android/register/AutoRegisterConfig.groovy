@@ -16,7 +16,7 @@ class AutoRegisterConfig {
 
     Project project
     def cacheEnabled = true
-    def amsApiVersion = Opcodes.ASM6
+    def amsApiVersion = Opcodes.ASM7
 
     AutoRegisterConfig() {}
 

@@ -55,7 +55,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.0'
-        classpath 'com.billy.android:autoregister:x.x.x'
+        classpath 'com.laowang.alibaba:AutoRegister:1.0.0'
     }
 }
 ```

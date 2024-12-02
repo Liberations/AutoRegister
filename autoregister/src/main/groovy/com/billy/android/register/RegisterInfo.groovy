@@ -23,7 +23,7 @@ class RegisterInfo {
     String registerMethodName = ''
     ArrayList<String> include = []
     ArrayList<String> exclude = []
-    int amsApiVersion = Opcodes.ASM6
+    int amsApiVersion = Opcodes.ASM7
 
     //以下不是可配置参数
     List<Pattern> includePatterns = []
